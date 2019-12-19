@@ -1,0 +1,46 @@
+{
+    "name": "hapi.js",
+    "description": "<p>A rich framework for building applications and services. hapi enables developers to focus on writing reusable application logic instead of spending time building infrastructure.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/hapi-js-logo.png",
+    "tags": [
+        "api service provider",
+        "applications",
+        "framework",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/hapi-js\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "hapi.js",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/hapi-js-logo.png",
+            "humanURL": "http:\/\/hapijs.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hapi-js-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/hapijs"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/hapijs"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/hapijs.com\/"
+        }
+    ]
+}
